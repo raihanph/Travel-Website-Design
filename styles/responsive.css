@@ -1,0 +1,19 @@
+@media screen and (max-width:676px){
+    .header-section{
+        flex-direction: column;
+        margin-top: auto;
+        gap: 20px;
+    }
+    .nav-container{
+        flex-direction: column;
+        margin-top: auto;
+        gap: 20px;
+    }
+
+    .item-container{
+        flex-direction: column;
+        margin-top: auto;
+        gap: 20px;
+    }
+
+}
